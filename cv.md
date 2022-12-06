@@ -1,5 +1,6 @@
 
 # Mikulich Maksim
+![Alt](/rsschool-cv/photo.png)
 
 
 # Contact info
@@ -28,10 +29,7 @@ I am a system administrator with experience. My goal is to try myself in a diffe
 #  Code example
 
 
-```
-I will be writing code in the near future
-
-```
+`I will be writing code in the near future`
 
 
 # Experience
