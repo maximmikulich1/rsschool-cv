@@ -1,6 +1,8 @@
 
 # Mikulich Maksim
-![Alt](/rsschool-cv/photo.png)
+
+
+![Alt](/photo.png)
 
 
 # Contact info
